@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/main.7e116a82.chunk.css",
-    "main.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.dd8274f4.chunk.js",
-    "main.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.dd8274f4.chunk.js.map",
+    "main.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.e1e70754.chunk.js",
+    "main.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.e1e70754.chunk.js.map",
     "runtime-main.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/runtime-main.a9da4f5e.js",
     "runtime-main.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/runtime-main.a9da4f5e.js.map",
     "static/css/2.fd1d0213.chunk.css": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/2.fd1d0213.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.fd1d0213.chunk.css",
     "static/js/2.8fe6dc71.chunk.js",
     "static/css/main.7e116a82.chunk.css",
-    "static/js/main.dd8274f4.chunk.js"
+    "static/js/main.e1e70754.chunk.js"
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/main.7e116a82.chunk.css",
+    "main.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.1c61586f.chunk.js",
+    "main.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/main.1c61586f.chunk.js.map",
+    "runtime-main.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/runtime-main.a9da4f5e.js",
+    "runtime-main.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/runtime-main.a9da4f5e.js.map",
+    "static/css/2.fd1d0213.chunk.css": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/2.fd1d0213.chunk.css",
+    "static/js/2.7fe20b47.chunk.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/2.7fe20b47.chunk.js",
+    "static/js/2.7fe20b47.chunk.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/2.7fe20b47.chunk.js.map",
+    "static/js/3.ef947626.chunk.js": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/3.ef947626.chunk.js",
+    "static/js/3.ef947626.chunk.js.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/3.ef947626.chunk.js.map",
+    "index.html": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/index.html",
+    "static/css/2.fd1d0213.chunk.css.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/2.fd1d0213.chunk.css.map",
+    "static/css/main.7e116a82.chunk.css.map": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/css/main.7e116a82.chunk.css.map",
+    "static/js/2.7fe20b47.chunk.js.LICENSE.txt": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/js/2.7fe20b47.chunk.js.LICENSE.txt",
+    "static/media/banner.e02b840e.jpg": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/media/banner.e02b840e.jpg",
+    "static/media/banner2.5560419e.jpg": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/media/banner2.5560419e.jpg",
+    "static/media/banner3.dd33b2f9.jpg": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/media/banner3.dd33b2f9.jpg",
+    "static/media/panda.56406561.png": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/media/panda.56406561.png",
+    "static/media/slick-theme.css": "/Tiketing-Event-Using-React-JS-with-Tailwind-CSS/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9da4f5e.js",
+    "static/css/2.fd1d0213.chunk.css",
+    "static/js/2.7fe20b47.chunk.js",
+    "static/css/main.7e116a82.chunk.css",
+    "static/js/main.1c61586f.chunk.js"
+  ]
+}

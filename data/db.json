@@ -1,0 +1,182 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Event 1",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 7
+        },
+        {
+            "id": 2,
+            "title": "Event 2",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 0
+        },
+        {
+            "id": 3,
+            "title": "Event 3",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 6
+        },
+        {
+            "id": 4,
+            "title": "Event 4",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 0
+        },
+        {
+            "id": 5,
+            "title": "Event 5",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 0
+        },
+        {
+            "id": 6,
+            "title": "Event 6",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 4
+        },
+        {
+            "id": 7,
+            "title": "Event 7",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 3
+        }
+    ],
+    "popular": [
+        {
+            "id": 1,
+            "title": "Event 1",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 7
+        },
+        {
+            "id": 3,
+            "title": "Event 3",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 6
+        },
+        {
+            "id": 6,
+            "title": "Event 6",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 4
+        },
+        {
+            "id": 7,
+            "title": "Event 7",
+            "address": "online",
+            "img": "https://image.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-419.jpg",
+            "event_detail": [
+                {
+                    "price": 100000,
+                    "type": "paid",
+                    "date": "Wednesday, 24 November 2021",
+                    "time_start": "13:30:00",
+                    "time_end": "15:30:00"
+                }
+            ],
+            "sold": 3
+        }
+    ]
+}
